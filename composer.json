@@ -1,0 +1,8 @@
+{
+    "name": "your-name/custom-excel-table-display",
+    "description": "WordPress plugin to display Excel data",
+    "type": "wordpress-plugin",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
